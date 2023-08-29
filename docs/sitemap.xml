@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>www.oumark.net/vcf2r/404.html</loc>
   </url>
   <url>
-    <loc>/LICENSE-text.html</loc>
+    <loc>www.oumark.net/vcf2r/LICENSE-text.html</loc>
   </url>
   <url>
-    <loc>/LICENSE.html</loc>
+    <loc>www.oumark.net/vcf2r/LICENSE.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>www.oumark.net/vcf2r/authors.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>www.oumark.net/vcf2r/index.html</loc>
   </url>
   <url>
-    <loc>/reference/hello.html</loc>
+    <loc>www.oumark.net/vcf2r/reference/hello.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>www.oumark.net/vcf2r/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>www.oumark.net/vcf2r/reference/read_vcf.html</loc>
   </url>
 </urlset>
