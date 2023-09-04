@@ -41,8 +41,9 @@ read_line = function(VCF, chr=NULL, pos=NULL, infoOnly=TRUE){
   if(! is.null(infoOnly)){
     dat = dat[infoOnly]
   }
-  colnames(dat) = header
   dat = as.data.frame(dat)
+  colnames(dat) = header
+
 
   # return result
   return(dat)
